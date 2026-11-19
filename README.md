@@ -28,8 +28,8 @@ The notebook downloads its data automatically from the MagNav.jl repository.
 
 ## Article and video
 
-- Article: [link to your Medium article]
-- Video: [link to your YouTube video]
+- Article: 
+- Video: 
 
 ## Sources and credit
 
