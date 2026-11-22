@@ -28,8 +28,8 @@ The notebook downloads its data automatically from the MagNav.jl repository.
 
 ## Article and video
 
-- Article: 
-- Video: 
+- Article: [Read it on Medium](https://medium.com/@sheetal.dubey29/i-turned-off-gps-and-flew-90-km-using-the-magnetism-in-the-rocks-below-4edc19fe7e90)
+- Video: [Watch the YouTube Short](https://youtube.com/shorts/wMr8yzWPx8I)
 
 ## Sources and credit
 
